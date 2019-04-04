@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\t_qifeil\desktop\algo\algo\seqstack\democpp\main.c(12): warning C4013: 'system' undefined; assuming extern returning int
+  democpp.vcxproj -> C:\Users\t_qifeil\Desktop\Algo\Algo\SeqStack\democpp\Debug\democpp.exe
+  democpp.vcxproj -> C:\Users\t_qifeil\Desktop\Algo\Algo\SeqStack\democpp\Debug\democpp.pdb (Full PDB)
