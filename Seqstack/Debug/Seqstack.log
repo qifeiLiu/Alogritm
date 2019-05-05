@@ -1,0 +1,16 @@
+﻿  SeqStack.c
+  seqlist.c
+c:\users\t_qifeil\desktop\algo\algo\seqstack\seqstack\seqlist.c(22): warning C4133: '=': incompatible types - from 'TSeqList *' to 'TSeqListNode *'
+c:\users\t_qifeil\desktop\algo\algo\seqstack\seqstack\seqlist.c(61): warning C4018: '>': signed/unsigned mismatch
+c:\users\t_qifeil\desktop\algo\algo\seqstack\seqstack\seqlist.c(66): warning C4047: '=': 'TSeqListNode' differs in levels of indirection from 'TSeqListNode *'
+c:\users\t_qifeil\desktop\algo\algo\seqstack\seqstack\seqlist.c(88): warning C4018: '<': signed/unsigned mismatch
+c:\users\t_qifeil\desktop\algo\algo\seqstack\seqstack\seqlist.c(114): warning C4018: '<': signed/unsigned mismatch
+  main.c
+c:\users\t_qifeil\desktop\algo\algo\seqstack\seqstack\main.c(24): warning C4022: 'SeqStack_Push': pointer mismatch for actual parameter 2
+c:\users\t_qifeil\desktop\algo\algo\seqstack\seqstack\main.c(25): warning C4022: 'SeqStack_Push': pointer mismatch for actual parameter 2
+c:\users\t_qifeil\desktop\algo\algo\seqstack\seqstack\main.c(32): warning C4013: 'system' undefined; assuming extern returning int
+c:\users\t_qifeil\desktop\algo\algo\seqstack\seqstack\main.c(29): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'void *'
+c:\users\t_qifeil\desktop\algo\algo\seqstack\seqstack\main.c(31): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'void *'
+  Generating Code...
+  Seqstack.vcxproj -> C:\Users\t_qifeil\Desktop\Algo\Algo\SeqStack\Seqstack\Debug\Seqstack.exe
+  Seqstack.vcxproj -> C:\Users\t_qifeil\Desktop\Algo\Algo\SeqStack\Seqstack\Debug\Seqstack.pdb (Full PDB)
