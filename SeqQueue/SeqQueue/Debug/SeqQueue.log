@@ -1,0 +1,17 @@
+﻿Build started 2019/5/25 15:16:20.
+     1>Project "C:\Users\qf\Desktop\Project\Alogritm\SeqQueue\SeqQueue\SeqQueue.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt ..\main.c
+         main.c
+     1>c:\users\qf\desktop\project\alogritm\seqqueue\main.c(21): warning C4013: 'SeqQueue_Destroy' undefined; assuming extern returning int
+     1>c:\users\qf\desktop\project\alogritm\seqqueue\main.c(22): warning C4013: 'system' undefined; assuming extern returning int
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\qf\Desktop\Project\Alogritm\SeqQueue\Debug\SeqQueue.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\qf\Desktop\Project\Alogritm\SeqQueue\Debug\SeqQueue.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\qf\Desktop\Project\Alogritm\SeqQueue\Debug\SeqQueue.lib" /MACHINE:X86 Debug\main.obj
+         Debug\seqlist.obj
+         Debug\SeqQueue.obj
+         SeqQueue.vcxproj -> C:\Users\qf\Desktop\Project\Alogritm\SeqQueue\Debug\SeqQueue.exe
+     1>Done Building Project "C:\Users\qf\Desktop\Project\Alogritm\SeqQueue\SeqQueue\SeqQueue.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.25
