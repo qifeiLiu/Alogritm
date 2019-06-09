@@ -79,9 +79,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="BTree.h" />
+    <ClInclude Include="LinkQueue.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="BTree.c" />
+    <ClCompile Include="LinkQueue.c" />
     <ClCompile Include="main.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
