@@ -155,8 +155,8 @@ int main(int argc,char *argv[])
     printf("Array: \n");
     print_array(a,0,SIZE);
 
-    index = interpolation_search(a,0,SIZE,key);
-    if(index > 0)
+    index = interpolation_search(a,0,SIZE-1,key);
+    if(index >= 0)
     {
 	printf("Success: a[%d] = %d\n", index , a[index]);
     }
